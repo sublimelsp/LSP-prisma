@@ -13,6 +13,7 @@
                 "prisma.enableCodeLens",
                 "prisma.hidePrisma6Prompts",
                 "prisma.pinToPrisma6",
+                "prisma.schemaPath",
                 "prisma.scriptRunner",
                 "prisma.trace.server"
             ]
