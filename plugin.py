@@ -27,5 +27,5 @@ class LspPrismaPlugin(LspPlugin):
             cls.plugin_storage_path,
             ResourcePath("Packages", package_name, "language-server"),
             Path("node_modules", "@prisma", "language-server", "dist", "bin.js"),
-            node_version_requirement=">=14",
+            node_version_requirement=">=20",
         )
