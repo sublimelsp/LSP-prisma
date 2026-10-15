@@ -13,4 +13,4 @@ jobs:
     # Provides the Prisma syntax, which Sublime Text doesn't include.
     with:
       extra-packages: |
-        Sublime-Instincts/PrismaHighlight@v1.1.0
+        Sublime-Instincts/PrismaHighlight@v
